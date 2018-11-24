@@ -1,7 +1,7 @@
 # Sample Raspberry Pi Chinese Chatbot
 # 树莓派中文简易聊天机器人
 
-# 使用需求
+# 运行要求
 本软件尚未在树莓派上真实运行测试，如有bug请自行解决
 
 系统：Ubuntu or Debian
